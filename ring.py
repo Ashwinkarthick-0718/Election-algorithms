@@ -52,4 +52,4 @@ def election_process(pos):
 
 election_process(start)
 
-#print("After election process the final coordinator is - ",max(proc))
+print("After election process the final coordinator is - ",max(proc))
